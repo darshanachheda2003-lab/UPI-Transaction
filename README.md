@@ -31,11 +31,10 @@ Users can interact with the dashboard to explore transaction trends and patterns
 
 # Project Structure
 upi-transaction-analysis-powerbi
-│
 ├── dataset.csv
 ├── UPI_Transaction_Dashboard.pbix
 ├── dashboard.png
-└── README.md
+├── README.md
 # Key Insights
 - Identified banks with the highest UPI transaction volume
 - Observed growth trends in digital payment usage

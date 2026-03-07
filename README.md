@@ -28,7 +28,7 @@ The Power BI dashboard includes the following analytics:
 - Interactive Filters for Data Exploration
 Users can interact with the dashboard to explore transaction trends and patterns.
 # Dashboard Preview 
-
+![UPI Dashboard](dashboard_screenshot.png)
 # Project Structure
 upi-transaction-analysis-powerbi
 ├── dataset.csv
